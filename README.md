@@ -30,7 +30,7 @@
 
   <h2>Visit Furniture Haven and Experience the Cozy Revolution!</h2>
 
-  <p>Ready to embark on a journey to the comfiest place online? Click <a href="https://leman300.github.io/FurnitureHaven/">here</a> to immerse yourself in comfort, style, and a sprinkle of digital magic!</p>
+  <p>Ready to embark on a journey to the comfiest place online? Click <a target="_blank" href="https://leman300.github.io/FurnitureHaven/">here</a> to immerse yourself in comfort, style, and a sprinkle of digital magic!</p>
 
   <footer>
     <p align="center">Built with ❤️ by Bartosz Lemanek</p>
