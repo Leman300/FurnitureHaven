@@ -15,7 +15,7 @@
   <p>Our site boasts a sophisticated design in shades of grey, black, and a hint of refreshing green. It's not just a website; it's a vibe - the coziest corner of the internet.</p>
 
   <div align="center">
-  <img src="homepage-screenshot.png" alt="Furniture Haven Preview">
+  <img width="80%" src="homepage-screenshot.png" alt="Furniture Haven Preview">
   </div>
 
   <h2>Key Features:</h2>
