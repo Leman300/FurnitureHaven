@@ -1,6 +1,5 @@
 const nav = document.querySelector('.navbar-collapse')
 const footerYear = document.querySelector('.footer__year');
-const collectionYear = document.querySelector('.collection-year');
 const btns = document.querySelector('.btn')
 
 
@@ -11,7 +10,6 @@ const buttonAlert = () => {
 const handleCurrentYear = () => {
     const year = (new Date).getFullYear();
     footerYear.innerText = year;
-    collectionYear.innerText = year;
 }
 handleCurrentYear();
 
